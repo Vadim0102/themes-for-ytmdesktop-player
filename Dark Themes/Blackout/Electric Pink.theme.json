@@ -1,0 +1,10 @@
+// Electric Pink Theme
+
+{
+  "background": "#000000",
+  "foreground": "#FFFFFF",
+  "primaryColor": "#ff1493", // Replaced lime green #0ac000
+  "secondaryColor": "#ff69b4", // Replaced lime green #10c007
+  "textColor": "#FFFFFF",
+  "borderColor": "#ff1493"
+}
